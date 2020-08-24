@@ -1,0 +1,48 @@
+.logo{
+
+	width: 55px;
+	height: 55px;
+}
+
+.shadow{
+	 box-shadow: 5px 10px #888888
+}
+.border-PopUp{
+
+	border: 1px #888888 solid;
+}
+.cir{
+	border-radius: 200px;
+}
+#radialGradient-1{
+	background-color: #000000;
+}
+.coll{
+	background-color: #000000;
+}
+.c-button:hover{
+	background-color: #808080;
+}
+.colorh{
+	color: #000000;
+}
+h2:after{
+	color: #000000;
+}
+.borderc{
+	border-color: #000000;
+	color: #000000;
+}
+.borderc:hover{
+	background-color: #000000;
+	border-color: #000000;
+}
+.left:hover{
+	color: #918f8f;
+}
+.right:hover{
+	color: #918f8f;
+}
+.card{
+	border-color: #000000;
+}
